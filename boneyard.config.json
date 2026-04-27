@@ -1,0 +1,15 @@
+{
+  "$schema": "https://unpkg.com/boneyard-js@latest/schema.json",
+  "out": "./bones",
+  "breakpoints": [375, 768, 1280],
+  "wait": 800,
+  "animate": "shimmer",
+  "color": "#e2e8f0",
+  "shimmerColor": "#f1f5f9",
+  "darkColor": "#1e293b",
+  "darkShimmerColor": "#334155",
+  "speed": "1.8s",
+  "shimmerAngle": 110,
+  "stagger": 60,
+  "transition": 240
+}
